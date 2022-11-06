@@ -21,8 +21,8 @@ I validator the mainnets of such projects as -
 
 And also I participate in many testnets Massa, Minima, Masa, Celestia, Deweb, SUI, Sei and more...
 
-OKP4 https://okp4.explorers.guru/validator/okp4valoper10wgkn0s5kcw28en5tdy87hec772qqps4snr200
-Deweb (DWS) https://dws.explorers.guru/validator/dewebvaloper1tfcs5j07meae9ywqfgue6d7xmz8f5cmkr5z9p6 
+- OKP4 https://okp4.explorers.guru/validator/okp4valoper10wgkn0s5kcw28en5tdy87hec772qqps4snr200
+- Deweb (DWS) https://dws.explorers.guru/validator/dewebvaloper1tfcs5j07meae9ywqfgue6d7xmz8f5cmkr5z9p6 
 
 ### Connect with me:
 - Mail: germansilence@gmail.com
@@ -30,7 +30,6 @@ Deweb (DWS) https://dws.explorers.guru/validator/dewebvaloper1tfcs5j07meae9ywqfg
 - Twitter: https://twitter.com/senin_g
 
 <br />
-
 ### Languages and Tools:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
