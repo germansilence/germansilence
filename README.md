@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm TAKESHI
 
 ## I'm a FrontEnd Developer and professional validator.
-- 💪 I like to write code
-- ✨ I like Cosmos SDK 
-- 🎉 I love to paint and play the guitar
-- 🥅 I am constantly learning new things
+- ⚡ I like to write code
+- ⚡ I like Cosmos SDK 
+- ⚡ I love to paint and play the guitar
+- ⚡ I am constantly learning new things
 
 I validator the mainnets of such projects as -
 1. GRAVITY BRIDGE https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1eevhm5vsdnwhjvfacfpcktpn6zcn7mtyrmp09f
@@ -25,9 +25,9 @@ OKP4 https://okp4.explorers.guru/validator/okp4valoper10wgkn0s5kcw28en5tdy87hec7
 Deweb (DWS) https://dws.explorers.guru/validator/dewebvaloper1tfcs5j07meae9ywqfgue6d7xmz8f5cmkr5z9p6 
 
 ### Connect with me:
-Mail: germansilence@gmail.com
-Telegram: [@takeshiketano](https://t.me/takeshiketano)
-Twitter: https://twitter.com/senin_g
+- Mail: germansilence@gmail.com
+- Telegram: [@takeshiketano](https://t.me/takeshiketano)
+- Twitter: https://twitter.com/senin_g
 
 <br />
 
