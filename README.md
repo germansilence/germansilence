@@ -28,7 +28,7 @@
 - Mail: germansilence@gmail.com
 - Telegram: [@takeshiketano](https://t.me/takeshiketano)
 - Twitter: https://twitter.com/senin_g
-- Discord: TAKESHI#5588
+- <img src="/profile/static/discord.svg" width="64" /></a> Discord: TAKESHI#5588 
 
 
 ### Languages and Tools:
