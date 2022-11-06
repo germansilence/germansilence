@@ -6,7 +6,7 @@
 - ⚡ I love to paint and play the guitar
 - ⚡ I am constantly learning new things
 
-I validator the mainnets of such projects as -
+### I validator the mainnets of such projects as -
 1. GRAVITY BRIDGE https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1eevhm5vsdnwhjvfacfpcktpn6zcn7mtyrmp09f
 2. Canto https://explorer.nodestake.top/canto/staking/cantovaloper1jnmsz7g5x3xluqg8qm4lxyfn98lcvl7ywlxgty
 3. KiChain https://www.mintscan.io/ki-chain/validators/kivaloper1sx2alt59drcfadp98ru0k5nl6tnjje7cqnqdq7
@@ -19,7 +19,7 @@ I validator the mainnets of such projects as -
 10. GALAXY https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper18gqa74tet7644rz7jr0u6gsghlj30kts0q4wpx
 11. Pylons https://pylons.explorers.guru/validator/pylovaloper17tp5juq2m9k87t9e5894zqgk754ascl5dmg2ls
 
-And also I participate in many testnets Massa, Minima, Masa, Celestia, Deweb, SUI, Sei and more...
+### And also I participate in many testnets Massa, Minima, Masa, Celestia, Deweb, SUI, Sei and more...
 
 - OKP4 https://okp4.explorers.guru/validator/okp4valoper10wgkn0s5kcw28en5tdy87hec772qqps4snr200
 - Deweb (DWS) https://dws.explorers.guru/validator/dewebvaloper1tfcs5j07meae9ywqfgue6d7xmz8f5cmkr5z9p6 
