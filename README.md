@@ -15,7 +15,7 @@
 6. Konstellation https://www.mintscan.io/konstellation/validators/darcvaloper12kqu7yq55kslmlg20ku4saz9xlswjw9nq9g4a4
 7. IDEP https://explorer.nodestake.top/idep/staking/idepvaloper1x8kqexcjtxwkqucxpsg4ulsuwekmna6duwuwuz
 8. Beezee https://explorer.erialos.me/beezee/staking/bzevaloper18499kyjfsmlwwf2t6qnk7dp0fq9gfa73s7hmfs
-9. QuickSilver https://quicksilver.explorers.guru/validator/quickvaloper1wtg08l9nlmr77geq98tssrrnjegyxazwq2vhrp
+9. QuickSilver https://www.mintscan.io/quicksilver/validators/quickvaloper1wtg08l9nlmr77geq98tssrrnjegyxazwq2vhrp
 10. GALAXY https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper18gqa74tet7644rz7jr0u6gsghlj30kts0q4wpx
 11. Pylons https://pylons.explorers.guru/validator/pylovaloper17tp5juq2m9k87t9e5894zqgk754ascl5dmg2ls
 
@@ -23,11 +23,16 @@
 
 - OKP4 https://okp4.explorers.guru/validator/okp4valoper10wgkn0s5kcw28en5tdy87hec772qqps4snr200
 - Deweb (DWS) https://dws.explorers.guru/validator/dewebvaloper1tfcs5j07meae9ywqfgue6d7xmz8f5cmkr5z9p6 
+- Quicksilver testnet https://testnet.quicksilver.explorers.guru/validator/quickvaloper1wtg08l9nlmr77geq98tssrrnjegyxazwq2vhrp
+- Hypersign https://explorer.hypersign.id/hypersign-testnet/staking/hidvaloper1x6f84tx8zrvt59ylq0g7heja9ytqt4wc627yqj
+- Defund
+- Nibiru
+
 
 ### Connect with me:
 - Mail: germansilence@gmail.com
 - Telegram: [@takeshiketano](https://t.me/takeshiketano)
-- Twitter: https://twitter.com/senin_g
+- Twitter: https://twitter.com/takeshi_val
 - Discord: TAKESHI#5588 
 
 ---
