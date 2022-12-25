@@ -17,7 +17,7 @@
 8. Beezee https://explorer.erialos.me/beezee/staking/bzevaloper18499kyjfsmlwwf2t6qnk7dp0fq9gfa73s7hmfs
 9. QuickSilver https://www.mintscan.io/quicksilver/validators/quickvaloper1wtg08l9nlmr77geq98tssrrnjegyxazwq2vhrp
 10. GALAXY https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper18gqa74tet7644rz7jr0u6gsghlj30kts0q4wpx
-11. Pylons https://pylons.explorers.guru/validator/pylovaloper17tp5juq2m9k87t9e5894zqgk754ascl5dmg2ls
+11. Pylons https://pylons.explorers.guru/validator/pylovaloper1t4cxk8h9qtr0z6lty7zfr2agyjawv2ctx53t47
 
 ### And also I participate in many testnets Massa, Minima, Masa, Celestia, Deweb, SUI, Sei and more...
 
@@ -27,7 +27,13 @@
 - Hypersign https://explorer.hypersign.id/hypersign-testnet/staking/hidvaloper1x6f84tx8zrvt59ylq0g7heja9ytqt4wc627yqj
 - Defund
 - Nibiru
-
+- Celestia
+- Massa 
+- Minima
+- Masa
+- Exorde
+- Archway
+- Cosmic Horizon
 
 ### Connect with me:
 - Mail: germansilence@gmail.com
