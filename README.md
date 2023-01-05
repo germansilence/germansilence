@@ -1,5 +1,3 @@
-# Untitled
-
 #### Hi there 👋, I'm TAKESHI
 
 ### I'm a FrontEnd Developer and professional validator.
