@@ -1,4 +1,4 @@
-#### Hi there 👋, I'm TAKESHI
+#### Hi there 👋, I'm TAKESHI trusted pos validator.
 
 ### I'm a FrontEnd Developer and professional validator.
 
@@ -11,7 +11,7 @@
 
 1. Dymension  [https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1eevhm5vsdnwhjvfacfpcktpn6zcn7mtyrmp09f](https://www.mintscan.io/dymension/validators/dymvaloper1jdspdmphxkn4mjvpfxz4wemwz9lecvf0wguats)
 2. Gravity Bridge [https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1eevhm5vsdnwhjvfacfpcktpn6zcn7mtyrmp09f](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1eevhm5vsdnwhjvfacfpcktpn6zcn7mtyrmp09f)
-3. Althea [[https://www.mintscan.io/ki-chain/validators/kivaloper1sx2alt59drcfadp98ru0k5nl6tnjje7cqnqdq7](https://www.mintscan.io/ki-chain/validators/kivaloper1sx2alt59drcfadp98ru0k5nl6tnjje7cqnqdq7)](https://www.mintscan.io/althea/validators/altheavaloper17r5kfqtna74y4qskeqphe2eh4u2fu6xsxm92f3)
+3. Althea [[https://www.mintscan.io/ki-chain/validators/kivaloper1sx2alt59drcfadp98ru0k5nl6tnjje7cqnqdq7](https://www.mintscan.io/ki-chain/validators/kivaloper1sx2alt59drcfadp98ru0k5nl6tnjje7cqnqdq7)
 4. Provenance [https://www.mintscan.io/provenance/validators/pbvaloper14d5qzxtxcg220f73e93w9ykv3gtsnltqwkxww9](https://www.mintscan.io/provenance/validators/pbvaloper14d5qzxtxcg220f73e93w9ykv3gtsnltqwkxww9)
 5. KiChain [https://www.mintscan.io/ki-chain/validators/kivaloper1sx2alt59drcfadp98ru0k5nl6tnjje7cqnqdq7](https://www.mintscan.io/ki-chain/validators/kivaloper1sx2alt59drcfadp98ru0k5nl6tnjje7cqnqdq7)
 8. Beezee https://explorer.erialos.me/beezee/staking/bzevaloper18499kyjfsmlwwf2t6qnk7dp0fq9gfa73s7hmfs
