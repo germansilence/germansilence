@@ -26,27 +26,3 @@
 * Discord: takeshi.team
 
 ***
-
-### description: Discover base tools contributed to the projects by kjnodes team.
-
-## Supported chains
-
-### MAINNET
-
-<img src="https://raw.githubusercontent.com/kj89/testnet_manuals/main/pingpub/logos/gravitybridge.png" alt="" data-size="line"> [Gravity Bridge](mainnet/gravitybridge/)
-
-<img src="https://raw.githubusercontent.com/kj89/testnet_manuals/main/pingpub/logos/stride.png" alt="" data-size="line"> [Stride](mainnet/stride/)
-
-### TESTNET
-
-<img src="https://raw.githubusercontent.com/kj89/testnet_manuals/main/pingpub/logos/aura.png" alt="" data-size="line"> [Aura](testnet/aura/)
-
-<img src="https://raw.githubusercontent.com/kj89/testnet_manuals/main/pingpub/logos/defund.png" alt="" data-size="line"> [Defund](testnet/defund/)
-
-<img src="https://raw.githubusercontent.com/kj89/testnet_manuals/main/pingpub/logos/nibiru.png" alt="" data-size="line"> [Nibiru](testnet/nibiru/)
-
-<img src="https://raw.githubusercontent.com/kj89/testnet_manuals/main/pingpub/logos/quicksilver.png" alt="" data-size="line"> [Quicksilver](testnet/quicksilver/)
-
-#### Languages and Tools:
-
-![React](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png) ![HTML5](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png) ![CSS3](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png) ![Sass](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png) ![Visual Studio Code](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png) ![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png) ![Node.js](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png)
