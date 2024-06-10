@@ -11,33 +11,14 @@
 
 {% embed url="https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1eevhm5vsdnwhjvfacfpcktpn6zcn7mtyrmp09f" %}
 
-1. GRAVITY BRIDGE https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1eevhm5vsdnwhjvfacfpcktpn6zcn7mtyrmp09f
-2. Canto https://explorer.nodestake.top/canto/staking/cantovaloper1jnmsz7g5x3xluqg8qm4lxyfn98lcvl7ywlxgty
+1. Dymension  [https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1eevhm5vsdnwhjvfacfpcktpn6zcn7mtyrmp09f](https://www.mintscan.io/dymension/validators/dymvaloper1jdspdmphxkn4mjvpfxz4wemwz9lecvf0wguats)
+2. Gravity Bridge https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1eevhm5vsdnwhjvfacfpcktpn6zcn7mtyrmp09f
 3. KiChain https://www.mintscan.io/ki-chain/validators/kivaloper1sx2alt59drcfadp98ru0k5nl6tnjje7cqnqdq7
-4. STRIDE https://www.mintscan.io/stride/validators/stridevaloper1p72acfq307vyucv0jah495le8a6zqvcv38myte
-5. Provenance https://www.mintscan.io/provenance/validators/pbvaloper14d5qzxtxcg220f73e93w9ykv3gtsnltqwkxww9
-6. Konstellation https://www.mintscan.io/konstellation/validators/darcvaloper12kqu7yq55kslmlg20ku4saz9xlswjw9nq9g4a4
-7. IDEP https://explorer.nodestake.top/idep/staking/idepvaloper1x8kqexcjtxwkqucxpsg4ulsuwekmna6duwuwuz
+4. Provenance https://www.mintscan.io/provenance/validators/pbvaloper14d5qzxtxcg220f73e93w9ykv3gtsnltqwkxww9
+5. KiChain https://www.mintscan.io/ki-chain/validators/kivaloper1sx2alt59drcfadp98ru0k5nl6tnjje7cqnqdq7
 8. Beezee https://explorer.erialos.me/beezee/staking/bzevaloper18499kyjfsmlwwf2t6qnk7dp0fq9gfa73s7hmfs
 9. QuickSilver https://www.mintscan.io/quicksilver/validators/quickvaloper1wtg08l9nlmr77geq98tssrrnjegyxazwq2vhrp
-10. GALAXY https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper18gqa74tet7644rz7jr0u6gsghlj30kts0q4wpx
 11. Pylons https://pylons.explorers.guru/validator/pylovaloper1t4cxk8h9qtr0z6lty7zfr2agyjawv2ctx53t47
-
-#### And also I participate in many testnets Massa, Minima, Masa, Celestia, Deweb, SUI, Sei and more...
-
-* OKP4 https://okp4.explorers.guru/validator/okp4valoper10wgkn0s5kcw28en5tdy87hec772qqps4snr200
-* Deweb (DWS) https://dws.explorers.guru/validator/dewebvaloper1tfcs5j07meae9ywqfgue6d7xmz8f5cmkr5z9p6
-* Quicksilver testnet https://testnet.quicksilver.explorers.guru/validator/quickvaloper1wtg08l9nlmr77geq98tssrrnjegyxazwq2vhrp
-* Hypersign https://explorer.hypersign.id/hypersign-testnet/staking/hidvaloper1x6f84tx8zrvt59ylq0g7heja9ytqt4wc627yqj
-* Defund
-* Nibiru
-* Celestia
-* Massa
-* Minima
-* Masa
-* Exorde
-* Archway
-* Cosmic Horizon
 
 #### Connect with me:
 
