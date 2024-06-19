@@ -17,6 +17,7 @@
 6. Beezee https://explorer.erialos.me/beezee/staking/bzevaloper18499kyjfsmlwwf2t6qnk7dp0fq9gfa73s7hmfs
 7. QuickSilver https://www.mintscan.io/quicksilver/validators/quickvaloper1wtg08l9nlmr77geq98tssrrnjegyxazwq2vhrp
 8. Pylons https://pylons.explorers.guru/validator/pylovaloper1t4cxk8h9qtr0z6lty7zfr2agyjawv2ctx53t47
+9. Chain4Energy https://explorer.c4e.io/validators/c4evaloper125qz5ws2svjqnwwm99pcywv92kxwpgfd0ve0ka
 
 #### Connect with me:
 
